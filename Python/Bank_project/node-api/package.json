@@ -1,0 +1,14 @@
+{
+  "name": "bank-management-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js HTTP API for the Python bank management application",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
