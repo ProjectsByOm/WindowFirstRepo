@@ -1,5 +1,5 @@
-from bank_app.app import run_app
+from bank_app.tkinter_ui import run_tkinter_app
 
 
 if __name__ == "__main__":
-    run_app()
+    run_tkinter_app()
